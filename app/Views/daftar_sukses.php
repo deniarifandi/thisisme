@@ -8,7 +8,7 @@
       <script type="text/javascript" src="jquery.min.js"></script>
     <script type="text/javascript" src="qrcode.min.js"></script>
 </head>
-<body style="background-color:rgb(9, 23, 66); color: white; background-image: url(<?php echo base_url() ?>bgthis.png); background-repeat: no-repeat; background-position: center; background-attachment: fixed; height: 100vh;">
+<body style="background-color:rgb(0,0,0); color: white; background-image: url(<?php echo base_url() ?>bgthis.png); background-repeat: no-repeat; background-position: center; background-attachment: fixed; height: 100vh;">
 
  <style>
 

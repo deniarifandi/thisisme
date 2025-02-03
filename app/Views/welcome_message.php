@@ -6,7 +6,7 @@
     <title></title>
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
-<body style="background-color:rgb(9, 23, 66); color: white; background-image: url(<?php echo base_url() ?>bgthis.png); background-repeat: no-repeat; background-position: center; background-attachment: fixed; height: 100vh;">
+<body style="background-color:rgb(0,0, 0); color: white; background-image: url(<?php echo base_url() ?>bgthis.png); background-repeat: no-repeat; background-position: center; background-attachment: fixed; height: 100vh;">
 
 <div class="container" >
     <div class="row">
