@@ -8,7 +8,7 @@
      <script type="text/javascript" src="jquery.min.js"></script>
     <script type="text/javascript" src="qrcode.min.js"></script>
 </head>
-<body style="background-color:rgb(9, 23, 66); color: white; background-image: url(<?php echo base_url() ?>bgtiket.png); background-repeat: no-repeat; background-position: center; background-attachment: fixed; background-size: 500px">
+<body style="background-color:rgb(9, 23, 66); color: white; background-image: url(<?php echo base_url() ?>bgthis.png); background-repeat: no-repeat; background-position: center; background-attachment: fixed; height: 100vh;">
 
   <style>
 
@@ -19,7 +19,8 @@
   padding: 6px;
 }
   </style>
-
+<br>
+<br>
 <div class="container" >
     <div class="row">
         <div class="col-md-12">
