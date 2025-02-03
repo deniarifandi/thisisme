@@ -246,7 +246,7 @@ Have a nice day!");
 
         $email_smtp->setFrom("mli_event@sinarumi.co.id");
         $email_smtp->setTo("$email");
-        $email_smtp->setSubject("E-Ticket: Chinese New Year Celebration");
+        $email_smtp->setSubject("E-Ticket: This Is Me 2025 with musical drama 'Xinling de Ningjing'");
         $email_smtp->setMessage("
 Dear $nama,
 
@@ -256,7 +256,7 @@ Below is your entrance ticket link to attend the Event This Is Me 2025 with musi
 
 Please show your ticket during the re-registration process.  
 
-https://sinarumi.co.id/cnyrsvp/public/tiket?no=$no_tiket
+https://sinarumi.co.id/thisisme/public/tiket?no=$no_tiket
 
 *Note*:  
 Kindly arrive 30 minutes before the event starts, as there will be re-registration.
